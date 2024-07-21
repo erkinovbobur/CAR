@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+    background-color: antiquewhite;
+display: grid;
+grid-template: 1fr 1fr 2fr 4fr;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+form {
+    margin-bottom: 20px;
+}
+input, button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    border-radius: 20px;
+    background-color: aqua;
+    color: black
+}
+
+button{
+    background-color: red;
+}
